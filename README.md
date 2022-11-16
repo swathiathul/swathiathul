@@ -10,7 +10,7 @@
 
 - 🌱 I’m addicted to **Data Science and Analytics**
 
-- 📫 How to reach me **mrsswathiathul@gmail.com**
+- 📫 How to reach me **swathi.n.s13@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
