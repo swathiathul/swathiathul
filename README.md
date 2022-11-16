@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swathiathul&label=Profile%20views&color=0e75b6&style=flat" alt="swathiathul" /> </p>
 
-- 🔭 I’m currently working on **personal project!**
+- 🔭 I’m currently working on **personal projects!**
 
 - 🌱 I’m addicted to **Data Science and Analytics**
 
