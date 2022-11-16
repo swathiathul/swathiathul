@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Swathi N S</h1>
 <h3 align="center">A passionate data analyst enthusiast from India</h3>
 
-<img align ="right" alt="coding" width ="400" src="https://raw.githubusercontent.com/arsentieva/arsentieva/main/code.gif">
+<img align ="right" alt="coding" width ="300" src="https://raw.githubusercontent.com/arsentieva/arsentieva/main/code.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swathiathul&label=Profile%20views&color=0e75b6&style=flat" alt="swathiathul" /> </p>
 
